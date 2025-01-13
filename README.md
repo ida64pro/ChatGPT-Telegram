@@ -18,3 +18,9 @@ This repository contains the source code for a Telegram bot that utilizes ChatGP
    ```bash
    git clone https://github.com/ida64pro/ChatGPT-Telegram.git
    cd telegram-chatgpt-bot
+2. Insert your TOKEN in bot.py and start bot.py
+   ```bash
+   py bot.py
+
+
+You can customize it further based on your project’s details. This README provides users with everything they need to know to set up and run the bot.
